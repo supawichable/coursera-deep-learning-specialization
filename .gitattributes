@@ -1,9 +1,0 @@
-C* filter=lfs diff=lfs merge=lfs -text
-C1[[:space:]]-[[:space:]]Neural[[:space:]]Networks[[:space:]]and[[:space:]]Deep[[:space:]]Learning/** filter=lfs diff=lfs merge=lfs -text
-C2[[:space:]]-[[:space:]]Improving[[:space:]]Deep[[:space:]]Neural[[:space:]]Networks/** filter=lfs diff=lfs merge=lfs -text
-C4[[:space:]]-[[:space:]]Convolutional[[:space:]]Neural[[:space:]]Networks/** filter=lfs diff=lfs merge=lfs -text
-C5[[:space:]]-[[:space:]]Sequence[[:space:]]Models/** filter=lfs diff=lfs merge=lfs -text
-C5[[:space:]]-[[:space:]]Sequence[[:space:]]Models/**/* filter=lfs diff=lfs merge=lfs -text
-C4[[:space:]]-[[:space:]]Convolutional[[:space:]]Neural[[:space:]]Networks/**/* filter=lfs diff=lfs merge=lfs -text
-C2[[:space:]]-[[:space:]]Improving[[:space:]]Deep[[:space:]]Neural[[:space:]]Networks/**/* filter=lfs diff=lfs merge=lfs -text
-C1[[:space:]]-[[:space:]]Neural[[:space:]]Networks[[:space:]]and[[:space:]]Deep[[:space:]]Learning/**/* filter=lfs diff=lfs merge=lfs -text
